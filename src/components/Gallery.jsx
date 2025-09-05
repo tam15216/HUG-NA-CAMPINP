@@ -8,24 +8,24 @@ export default function Gallery() {
         <div className="flex flex-wrap md:-m-2 -m-1">
           <div className="flex flex-wrap w-full md:w-1/2">
             <div className="md:p-2 p-1 w-1/2">
-              <img alt="gallery" src="./src/assets/PG1.jpg" className="w-full max-w-[503px] aspect-[503/303] object-cover object-center rounded-lg shadow-lg" />
+              <img alt="gallery" src="/PG1.jpg" className="w-full max-w-[503px] aspect-[503/303] object-cover object-center rounded-lg shadow-lg" />
             </div>
             <div className="md:p-2 p-1 w-1/2">
-              <img alt="gallery" src="./src/assets/PG3.jpg" className="w-full max-w-[503px] aspect-[503/303] object-cover object-center rounded-lg shadow-lg" />
+              <img alt="gallery" src="/PG3.jpg" className="w-full max-w-[503px] aspect-[503/303] object-cover object-center rounded-lg shadow-lg" />
             </div>
             <div className="md:p-2 p-1 w-full flex justify-center">
-              <img alt="gallery" src="./src/assets/index2.jpg" className="w-full max-w-[600px] aspect-[600/360] object-cover object-center rounded-lg shadow-lg" />
+              <img alt="gallery" src="/index2.jpg" className="w-full max-w-[600px] aspect-[600/360] object-cover object-center rounded-lg shadow-lg" />
             </div>
           </div>
           <div className="flex flex-wrap w-full md:w-1/2">
             <div className="md:p-2 p-1 w-full flex justify-center">
-              <img alt="gallery" src="./src/assets/index1.jpg" className="w-full max-w-[600px] aspect-[600/360] object-cover object-center rounded-lg shadow-lg" />
+              <img alt="gallery" src="/index1.jpg" className="w-full max-w-[600px] aspect-[600/360] object-cover object-center rounded-lg shadow-lg" />
             </div>
             <div className="md:p-2 p-1 w-1/2">
-              <img alt="gallery" src="./src/assets/F1.jpg" className="w-full max-w-[503px] aspect-[503/303] object-cover object-center rounded-lg shadow-lg" />
+              <img alt="gallery" src="/F1.jpg" className="w-full max-w-[503px] aspect-[503/303] object-cover object-center rounded-lg shadow-lg" />
             </div>
             <div className="md:p-2 p-1 w-1/2">
-              <img alt="gallery" src="./src/assets/F2.jpg" className="w-full max-w-[503px] aspect-[503/303] object-cover object-center rounded-lg shadow-lg" />
+              <img alt="gallery" src="/F2.jpg" className="w-full max-w-[503px] aspect-[503/303] object-cover object-center rounded-lg shadow-lg" />
             </div>
           </div>
         </div>

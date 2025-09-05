@@ -5,7 +5,7 @@ export default function Header() {
   return (
     <div className='flex flex-col items-center justify-center pt-5'>
       <img 
-        src="./src/assets/logo.png" 
+        src="/logo.png" 
         alt="Logo" 
         className="w-50 h-50 rounded-full shadow-xl/30" 
       />
